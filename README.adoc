@@ -1,0 +1,34 @@
+= Project: {Controlling-Servo-Motor-using-Arduino-Serial-Monitor}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 09/08/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Controlling 4 Servo motors for robotic arm with one power supply by using arduino and control the angle of the motor by using serial monitor of arduino.
+
+==  Steps:
+1. Use TinkerCad to simulate the project
+2. Connect Arduino Uno and servo motors and solve the power issue by adding transistors as switches .
+3. Download Servo Motor Library .
+4. Write Code for Arduino to Control the process .
+5. Upload Arduino code and simulate the code by writing angles when asked .
+
+=== Folder structure
+
+....
+ Controlling-Servo-Motor-using-Arduino-Serial-Monitor
+  ├── servo_motor_controlled_by_serial_monitor1.ino       => Arduino code file
+  ├── Servo Motor 1.png                                   => image of the circuit
+  └── README.adoc      => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
